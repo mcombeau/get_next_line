@@ -12,7 +12,8 @@ This function returns a single line from a given file descriptor. If called in a
 ---
 
 ## Status
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mcombeau/get_next_line)](https://github.com/JaeSeoKim/badge42)
+Finished: 2022-01-21.
+Grade: 125/100.
 
 ## Usage
 This function is not a stand-alone program, its files must be included and compiled within another project.
