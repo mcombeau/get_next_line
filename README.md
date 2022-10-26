@@ -11,9 +11,14 @@ This function returns a single line from a given file descriptor. If called in a
 
 ---
 
-:us: Read my article in English about this project: [get_next_line: reading from a file descriptor](https://www.codequoi.com/en/42-get_next_line-project/)
+:us: Read my articles in English about the concepts tackled in this project:
 
-:fr: Lire mon article en français sur ce projet :  [get_next_line : lire depuis un descripteur de fichier](https://www.codequoi.com/42-get_next_line/)
+* [Handling a File by its Descriptor in C](https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/)
+* [Local, Global and Static Variables in C](https://www.codequoi.com/en/local-global-static-variables-in-c/)
+
+:fr: Lire mes articles en français sur les concepts abordés dans ce projet :
+* [Manipuler un fichier à l’aide de son descripteur en C](https://www.codequoi.com/manipuler-un-fichier-a-laide-de-son-descripteur-en-c/)
+* [Variables locales, globales et statiques en C](https://www.codequoi.com/variables-locales-globales-statiques-en-c/)
 
 ---
 
